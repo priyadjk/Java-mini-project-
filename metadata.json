@@ -1,0 +1,5 @@
+{
+  "name": "Pizza Mania Bill Generator",
+  "description": "A high-fidelity pizza bill generation tool that simulates the ordering process and provides the corresponding Java Core implementation for educational purposes.",
+  "requestFramePermissions": []
+}
